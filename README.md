@@ -27,7 +27,7 @@ This project automates the login process for a Microsoft Online account using Se
 
 ## Usage
 
-1. Update the `config.json` file with your login credentials and any other necessary configuration.
+1. Update the `users.example.txt to users.txt` and `working.example.txt to working.txt` file with your login credentials and any other necessary configuration.
 
 2. Run the automation script:
     ```sh
